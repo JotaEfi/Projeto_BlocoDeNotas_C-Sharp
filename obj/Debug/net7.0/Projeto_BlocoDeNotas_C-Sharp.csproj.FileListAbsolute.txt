@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Programming\Projeto_BlocoDeNotas_C-Sharp\bin\Debug\net7.0\Projeto_BlocoDeNotas_C-Sharp.exe
+C:\Users\Administrator\Desktop\Programming\Projeto_BlocoDeNotas_C-Sharp\bin\Debug\net7.0\Projeto_BlocoDeNotas_C-Sharp.deps.json
+C:\Users\Administrator\Desktop\Programming\Projeto_BlocoDeNotas_C-Sharp\bin\Debug\net7.0\Projeto_BlocoDeNotas_C-Sharp.runtimeconfig.json
+C:\Users\Administrator\Desktop\Programming\Projeto_BlocoDeNotas_C-Sharp\bin\Debug\net7.0\Projeto_BlocoDeNotas_C-Sharp.dll
+C:\Users\Administrator\Desktop\Programming\Projeto_BlocoDeNotas_C-Sharp\bin\Debug\net7.0\Projeto_BlocoDeNotas_C-Sharp.pdb
+C:\Users\Administrator\Desktop\Programming\Projeto_BlocoDeNotas_C-Sharp\obj\Debug\net7.0\Projeto_BlocoDeNotas_C-Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Programming\Projeto_BlocoDeNotas_C-Sharp\obj\Debug\net7.0\Projeto_BlocoDeNotas_C-Sharp.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Programming\Projeto_BlocoDeNotas_C-Sharp\obj\Debug\net7.0\Projeto_BlocoDeNotas_C-Sharp.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Programming\Projeto_BlocoDeNotas_C-Sharp\obj\Debug\net7.0\Projeto_BlocoDeNotas_C-Sharp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Programming\Projeto_BlocoDeNotas_C-Sharp\obj\Debug\net7.0\Projeto_BlocoDeNotas_C-Sharp.dll
+C:\Users\Administrator\Desktop\Programming\Projeto_BlocoDeNotas_C-Sharp\obj\Debug\net7.0\refint\Projeto_BlocoDeNotas_C-Sharp.dll
+C:\Users\Administrator\Desktop\Programming\Projeto_BlocoDeNotas_C-Sharp\obj\Debug\net7.0\Projeto_BlocoDeNotas_C-Sharp.pdb
+C:\Users\Administrator\Desktop\Programming\Projeto_BlocoDeNotas_C-Sharp\obj\Debug\net7.0\Projeto_BlocoDeNotas_C-Sharp.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Programming\Projeto_BlocoDeNotas_C-Sharp\obj\Debug\net7.0\ref\Projeto_BlocoDeNotas_C-Sharp.dll
